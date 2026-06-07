@@ -1,5 +1,9 @@
 # 📊 Superstore Sales Analytics Dashboard
 
+
+Dashboard Link Streamline : https://superstore-sales-analytics-dashboard-by-nikhil-jaiswal.streamlit.app/
+
+
 ## Overview
 
 The Superstore Sales Analytics Dashboard is an interactive Business Intelligence and Data Analytics project developed using Python, Pandas, Plotly, Streamlit, and Power BI. The project analyzes sales, profit, customer segments, regions, products, and yearly growth trends to provide actionable business insights.
@@ -149,6 +153,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
 
 The application will automatically open in your default browser.
 
